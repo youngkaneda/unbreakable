@@ -9,3 +9,10 @@ If you are not familiar with this concept, here is the [post](https://martinfowl
   <img src="./diagram.png" style="margin-top: 2%">
   <p style="text-align:center">How can be used.<p>
 </p>
+
+
+## TODO
+
+1. Improve call method with a better sync approach.
+2. Create the self healing job to recovery the circuit to closed state.
+3. Create simple tests.
