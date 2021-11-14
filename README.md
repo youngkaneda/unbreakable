@@ -1,5 +1,5 @@
 # unbreakable
-## A simple handmade circuit-breaker
+## A simple handmaded circuit-breaker
 
 The idea is create a circuit breaker with purely java as a module to people can just plug in into their service and add a block of code that will manage and try to recover from fail request from the remote calls, http request, whatever you place in the lambda block.
 
